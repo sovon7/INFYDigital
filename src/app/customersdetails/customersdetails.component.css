@@ -1,0 +1,40 @@
+nav{
+    background-color: darkred;
+    position: fixed;
+    z-index: 100;
+    width:100%
+}
+
+.navbar{
+    border:0px;
+    border-radius: 0px;
+    background-color: brown;
+}
+
+.navLinkAlign{
+    padding-left: 300px;
+}
+
+.navbar-brand{
+    padding-right: 120px;
+}
+
+li{
+    padding-right:90px;
+}
+
+.navtext{
+    color: aliceblue;
+}
+
+.navStyle{
+    margin-left:150px;
+}
+
+.navbar-brand,.nav-link{
+    color: white;
+}
+
+.nav-link{
+    font-size: 18px;
+}
